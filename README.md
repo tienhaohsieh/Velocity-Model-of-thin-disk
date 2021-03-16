@@ -5,6 +5,8 @@ A simple tool to visual the disk velocity at the line of sight. The model takes 
 One can move the cursor to adjust the position angle, and scroll wheel to change the inclination angle.
 The position angle and inclination angle will simultanelously shown in the top-left corner.
 
+A different velocity field might be input in Function.py for visualization.
+
 #### Requirments:
 * Numpy
 * Matplotlib
