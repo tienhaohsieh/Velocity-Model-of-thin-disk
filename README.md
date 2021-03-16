@@ -12,5 +12,4 @@ The position angle and inclination angle will simultanelously shown in the top-l
 A simple model with a Keplerian rotation with a velocity=10 km/s at a radius R=10 au.
 The distance and velocity (scaled to r=10au) can be modified in the Function.py and ToShow.py.
 
-![image]()
-
+![image](https://github.com/tienhaohsieh/Disk_Vmodel/blob/main/demo.gif)
