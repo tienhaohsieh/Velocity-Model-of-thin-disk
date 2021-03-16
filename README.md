@@ -1,6 +1,7 @@
 # Disk line of sight velocity model
 
-A simple tool to visual the disk velocity at the line of sight. The model takes a simple thin disk with a Keplerian velocity field. To see the model, simply run >> python ToShow.py
+A simple tool to visual the disk velocity at the line of sight. The model takes a simple thin disk with a Keplerian velocity field. To see the model, simply run >> python ToShow.py.
+
 One can move the cursor to adjust the position angle, and scroll wheel to change the inclination angle.
 The position angle and inclination angle will simultanelously shown in the top-left corner.
 
